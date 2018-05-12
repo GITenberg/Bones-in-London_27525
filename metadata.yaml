@@ -1,0 +1,34 @@
+_repo: Bones-in-London_27525
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wallace, Edgar
+    alias: Wallace, Richard Horatio Edgar
+    birthdate: 1875
+    deathdate: 1932
+    gutenberg_agent_id: '999'
+    url: http://www.gutenberg.org/2009/agents/999
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Wallace
+description: The new Managing Director of Schemes Ltd has an elegant London office
+  and a theatrically dressed assistant - however Bones, as he is better known, is
+  bored. Luckily there is a slump in the shipping market and it is not long before
+  Joe and Fred Pole pay Bones a visit. They are totally unprepared for Bones' unnerving
+  style of doing business, unprepared for his unique style of innocent and endearing
+  mischief.
+gutenberg_bookshelf: Adventure
+gutenberg_issued: '2008-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+title: Bones in London
+url: http://www.gutenberg.org/ebooks/27525
